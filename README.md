@@ -3,7 +3,7 @@
 
 - 🎓 Bacharel em Secretariado Executivo - Universidade Federal do Amapá - UNIFAP
 - 🎓 Bacharel em Ciência da Computação - Faculdade de Macapá - FAMA
-- 💻 Especialista Tec. em Desenvolvimento FULL STACK - SENAI Amapá
+- 💻 Especialista Tec. em Desenvolvimento FULL STACK - SENAI Amapá (cursando)
 - 💻 Desenvolvimento em Sistemas de Gerenciamento de Banco de Dados - SGBD (MySQL)
 - ✔  Certificação Microsoft 365 Certified: Fundamentals  
 
